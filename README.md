@@ -47,7 +47,7 @@ Sections in order:
 - Magics
   - Best magics have notifications
   - Good magics still visible
-  - Bad magics hidden
+  - Bad magics hidden (includes rings and amulets, modify yourself or ask for help)
 - Non-magics
   - This is the hardest section to keep everyone happy with. I tried my best
   - Paladin shield item tags to show resists without needing to pick it up
