@@ -12,6 +12,7 @@ I offer this one version and no other, and will help you customize it as you des
 An array of images has been included at the bottom of this post
 
 What's in the code:
+
 Sections in order:
 - Consumables
   - Scrolls and Tomes
