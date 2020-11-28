@@ -7,7 +7,7 @@ This filter will require you to view ground items for the "good" (not great) ite
 
 Additionally, I opt'd to not fully hold your hand as a player on this filter. Some runeword options are listed on gear, but not all. The filter is casual friendly, but if you've never played Diablo 2, you might need to research why certain non-magic items are being displayed with this filter.
 
-I offer this one version, and will help you customize it as you desire. Updates will happen and it is your responsibility to update your copy. No technical support is offered by me. I will only help you with the contents inside of default.filter. If you need help with filter installation or other technical problems, please talk to the *loot filter expert* in #lootfilter channel of [PD2's Discord](https://discord.com/invite/RgX4MWu)
+I offer this one version and no other, and will help you customize it as you desire. Updates will happen and it is your responsibility to update your copy. No technical support is offered by me. I will only help you with the contents inside of default.filter. If you need help with filter installation or other technical problems, please talk to the *loot filter expert* in #lootfilter channel of [PD2's Discord](https://discord.com/invite/RgX4MWu)
 
 An array of images has been included at the bottom of this post
 
