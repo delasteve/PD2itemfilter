@@ -9,8 +9,6 @@ Additionally, I opt'd to not fully hold your hand as a player on this filter. So
 
 I offer this one version and no other, and will help you customize it as you desire. Updates will happen and it is your responsibility to update your copy. No technical support is offered by me. I will only help you with the contents inside of default.filter. If you need help with filter installation or other technical problems, please talk to the *loot filter expert* in #lootfilter channel of [PD2's Discord](https://discord.com/invite/RgX4MWu)
 
-I will never accept donations
-
 An array of images has been included at the bottom of this post
 
 **What's in the code:**
