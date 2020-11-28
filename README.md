@@ -3,7 +3,7 @@
 
 My goal with this filter is a simple and professional display of items. As a player, I want to see an item and make a decision about it instantly.
 
-This filter will require you to view ground items for the "good" (not great) tier items that I don't hide (press alt). Missing these items won't be a terrible thing, and I often don't pick them up, but they're available to you as an option.
+This filter will require you to view ground items for the "good" (not great) items that I don't hide (press alt). Missing these items won't be a terrible thing, and I often don't pick them up, but they're available to you as an option.
 
 Additionally, I opt'd to not fully hold your hand as a player on this filter. Some runeword options are listed on gear, but not all. The filter is casual friendly, but if you've never played Diablo 2, you might need to research why certain non-magic items are being displayed with this filter.
 
