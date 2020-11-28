@@ -84,22 +84,16 @@ Sections in order:
 - Show/hide section
   - Notifications for all uniques until level 70
   - All uniques forced to be visible on the ground at level 70+
-  
   - Notifications for all sets until level 70
   - All sets forced to be visible on the ground at level 70+
-  
   - All rare items forced to be visible on the ground until level 70 (tier notifications in early gear section)
   - All rare items not specified in RARES section hidden at level 70+
-  
   - Notifications for all magic items until level 10
   - All magic items not specified in MAGICS section hidden at level 30+
-  
   - All inferior/low quality/crafted/crude/damaged items hidden
   - All non-magic 1 socketed items hidden at level 6+ (early vendor gear until level 6)
-  
   - All non-magic items visible until level 10
   - All non-magic items not specified in NON-MAGICS section hidden at level 10+
-  
   - Hide all player ears
 
 **My potion appearance preferences. Message me and I can help you change them**
