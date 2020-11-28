@@ -50,8 +50,8 @@ Sections in order:
   - Bad magics hidden (includes rings and amulets, modify yourself or ask for help)
 - Non-magics
   - This is the hardest section to keep everyone happy with. I tried my best
-  - Paladin shield item tags to show resists without needing to pick it up
-  - Assassin claw +3 skill tags to show skills on claw without needing to pick it up
+  - Paladin shield item tags to show resists
+  - Assassin claw +3 skill tags to show skills on claw
   - Barbarian +3 skill tags (only Warcry and Battle Orders)
   - Druid +3 skill tags (Some skills excluded)
   - Necromancer +3 skills tags (Some skills excluded)
