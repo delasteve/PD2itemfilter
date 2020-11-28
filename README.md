@@ -9,6 +9,8 @@ Additionally, I opt'd to not fully hold your hand as a player on this filter. So
 
 I offer this one version and no other, and will help you customize it as you desire. Updates will happen and it is your responsibility to update your copy. No technical support is offered by me. I will only help you with the contents inside of default.filter. If you need help with filter installation or other technical problems, please talk to the *loot filter experts* in #lootfilter channel of [PD2's Discord](https://discord.com/invite/RgX4MWu)
 
+Based on my conversations with people who use my filter, I have determined there is no feasible way to make everything appear in game in such a way that pleases all people. I'm offering this filter as a platform for people to edit from, and will help you do this if you struggle to do it yourself. Sawyer#5623 on discord.
+
 _An array of images has been included at the bottom of this post_
 
 **What's in the code:**
