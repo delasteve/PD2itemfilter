@@ -5,7 +5,6 @@ What's in the code
 
 Sections in order:
 - Consumables
-![Test](https://i.imgur.com/6U8nTIH.png)
   - Scrolls and Tomes
   - Key/Arrow/Bolt
   - Drinking Potions
