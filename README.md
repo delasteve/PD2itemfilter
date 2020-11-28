@@ -93,44 +93,44 @@ Sections in order:
   
   - Hide all player ears
 
-My potion appearance preferences. Message me and I can help you change them
+**My potion appearance preferences. Message me and I can help you change them**
 ![Consumes](https://i.imgur.com/sF1juJA.png)
 
-My rune appearance preferences. Message me and I can help you change them
+**My rune appearance preferences. Message me and I can help you change them**
 ![Runes](https://i.imgur.com/GQYAt4R.png)
 
-My gem appearance preferences. Message me and I can help you change them
+**My gem appearance preferences. Message me and I can help you change them**
 ![Gems](https://i.imgur.com/Mc5Z2v3.png)
 
-Uber tristram event items with notes
+**Uber tristram event items with notes**
 ![Trist](https://i.imgur.com/dl5ZzfD.png)
 
-Token and essences with notes
+**Token and essences with notes**
 ![Essences](https://i.imgur.com/OctT6nx.png)
 
-Worldstone and Larzuk Puzzlebox appearance preferences
+**Worldstone and Larzuk Puzzlebox appearance preferences**
 ![WSS](https://i.imgur.com/Go1Mf5A.png)
 
-Map crafting items with notes
+**Map crafting items with notes**
 ![MapC](https://i.imgur.com/fk05Zc8.png)
 
-Diablo clone event items with notes
+**Diablo clone event items with notes**
 ![DClone](https://i.imgur.com/qjzF5Or.png)
 
-Ethereal and socket item name tags
+**Ethereal and socket item name tags**
 ![EthSock](https://i.imgur.com/7izRtbF.png)
 
-Upgrade recipe for unique/set/rares. Message me if you want these disabled.
+**Upgrade recipe for unique/set/rares. Message me if you want these disabled**
 ![Upg](https://i.imgur.com/x6wnhBE.png)
 
-Unique name tags for unidentified uniques
+**Unique name tags for unidentified uniques**
 ![Unique Tags](https://i.imgur.com/k82r7Ig.png)
 
-Set name tags for unidentified set items
+**Set name tags for unidentified set items**
 ![Set Tags](https://i.imgur.com/kfwWvbL.png)
 
-Crafting assistance for optimal crafting levels
+**Crafting assistance for optimal crafting levels**
 ![Craft Tags](https://i.imgur.com/lSctRDF.png)
 
-Some non-magic gear examples
+**Some non-magic gear examples**
 ![NonMagics](https://i.imgur.com/8meJxtd.png)
