@@ -98,7 +98,7 @@ ItemDisplay[ops CLVL>14]:
 //- RUNES ---------------- RUNES ---------------- RUNES ---------------- RUNES ---------------
 //############################################################################################
 
-//ItemDisplay[RUNE<34 DIFF=0 CLVL<70]: %RUNENAME% (%RUNENUM%)%DOT-68%//Alert for all runes while in normal
+ItemDisplay[RUNE<34 DIFF=0 CLVL<70]: %RUNENAME% (%RUNENUM%)%DOT-68%//Alert for all runes while in normal
 
 //- RUNE STACK QTY --------------------
 // Quantity tag if QTY greater than 1
@@ -397,7 +397,7 @@ ItemDisplay[GOLD<3000 CLVL>85]:
 ItemDisplay[ETH !INF]: Eth %NAME%%CONTINUE%// Add "Eth" before eth item names
 ItemDisplay[!RW !INF SOCK>0]: %NAME% (%SOCKETS%)%CONTINUE%// Add number of sockets to the end of socketed item names
 //ItemDisplay[!RW (UNI OR SET OR CRAFT OR RARE OR MAG)]: %NAME% (i%ILVL%)%CONTINUE%// Add item level after unique/set/craft/rare/magic item names. Use this or the item level display in settings
-//ItemDisplay[!RW !INF CLVL<40]: %NAME% %DARK_GREEN%(%PRICE%g)%CONTINUE%// Add vendor value after craft/rare/magic/nonmagic items in normal and nightmare
+ItemDisplay[!RW !INF CLVL<40]: %NAME% %DARK_GREEN%(%PRICE%g)%CONTINUE%// Add vendor value after craft/rare/magic/nonmagic items in normal and nightmare
 
 // Adds upgrade recipes to item descriptions. Uncomment the next 3 blocks if you don't want descriptions
 ItemDisplay[UNI ID ARMOR NORM]: %NAME%{%TAN%Tal + Shael + Perfect Diamond = Exc Unique Armor}%CONTINUE%// Upgrade recipe in item descriptions
