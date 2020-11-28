@@ -42,7 +42,7 @@ Sections in order:
   - Good rares still visible
   - Bad rares hidden
 - Crafted
-  - Amulet/rings show which item to craft them for best results
+  - Amulet/rings show which level to craft them for best results
   - Crafting equipment disabled by default (very intrusive, I suggest gambling or customizing this section)
 - Magics
   - Best magics have notifications
