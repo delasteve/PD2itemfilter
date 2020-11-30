@@ -189,7 +189,7 @@ ItemDisplay[GEM=2 CLVL>20]:// Uncomment to hide all flawed
 ItemDisplay[GEM=3 CLVL>25]:// Uncomment to hide all normal
 //ItemDisplay[GEM=4]:// Uncomment to hide all flawless
 
-//ItemDisplay[GEM=4]: %NAME%%PX-20%%CONTINUE%// Uncomment to alert all flawless
+ItemDisplay[(GEM=4 OR gzv OR glw OR glg OR glr OR glb OR gly OR skl)]: %NAME%%PX-20%%CONTINUE%// Uncomment to alert all flawless
 
 //- GEM STACK QTY ---------------------
 //- AMETHYST STACKED ------------------
