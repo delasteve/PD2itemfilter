@@ -399,7 +399,7 @@ ItemDisplay[!RW !INF SOCK>0]: %NAME% (%SOCKETS%)%CONTINUE%// Add number of socke
 ItemDisplay[!RW (UNI OR SET OR CRAFT OR RARE OR MAG)]: %NAME% (i%ILVL%)%CONTINUE%// Add item level after unique/set/craft/rare/magic item names. Use this or the item level display in settings
 ItemDisplay[!RW !INF CLVL<40]: %NAME% %DARK_GREEN%(%PRICE%g)%CONTINUE%// Add vendor value after craft/rare/magic/nonmagic items in normal and nightmare
 
-// Adds upgrade recipes to item descriptions. Uncomment the next 3 blocks if you don't want descriptions
+// Adds upgrade recipes to item descriptions. Comment the next 3 blocks if you don't want descriptions
 ItemDisplay[UNI ID ARMOR NORM]: %NAME%{%TAN%Tal + Shael + Perfect Diamond = Exc Unique Armor}%CONTINUE%// Upgrade recipe in item descriptions
 ItemDisplay[UNI ID ARMOR EXC]: %NAME%{%TAN%Ko + Lem + Perfect Diamond = Elite Unique Armor}%CONTINUE%// Upgrade recipe in item descriptions
 ItemDisplay[UNI ID WEAPON NORM]: %NAME%{%TAN%Ral + Sol + Perfect Emerald = Exc Unique Weapon}%CONTINUE%// Upgrade recipe in item descriptions
