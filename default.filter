@@ -533,7 +533,7 @@ ItemDisplay[UNI !ID xrs]: %NAME% %GRAY%(Duriel's Shell)%MAP-A5%// Duriel's Shell
 ItemDisplay[UNI !ID xhn]: %NAME% %GRAY%(Shaftstop)%MAP-A5%// Shaftstop Mesh Armor
 ItemDisplay[UNI !ID xpl]: %NAME% %GRAY%(Skullder's Ire)%MAP-A5%// Skullder's Ire Russet Armor
 ItemDisplay[UNI !ID xtp]: %NAME% %GRAY%(Que-Hegan's Wisdom)%MAP-A5%// Que-Hegan's Wisdom Mage Plate
-ItemDisplay[UNI !ID xld]: %NAME% %GRAY%(Toothrow)//%MAP-A5%// Toothrow Sharktooth Armor
+ItemDisplay[UNI !ID xld]: %NAME% %GRAY%(Toothrow)%MAP-A5%// Toothrow Sharktooth Armor
 ItemDisplay[UNI !ID xlt]: %NAME% %GRAY%(Guardian Angel)%MAP-A5%// Guardian Angel Templar Coat
 ItemDisplay[UNI !ID xth]: %NAME% %GRAY%(Atma's Wail)%MAP-A5%// Atma's Wail Embossed Plate
 ItemDisplay[UNI !ID xul]: %NAME% %GRAY%(Black Hades)//%MAP-A5%// Black Hades Chaos Armor
